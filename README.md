@@ -1,2 +1,15 @@
-# LumeDB
-The word "Lume" it shelf is a short for “Lumen” (lightweight, fast). It's my own data base just to learn the internals.
+# lumedb
+
+To install dependencies:
+
+```bash
+bun install
+```
+
+To run:
+
+```bash
+bun run index.ts
+```
+
+This project was created using `bun init` in bun v1.2.13. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.

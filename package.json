@@ -1,0 +1,17 @@
+{
+  "name": "lumedb",
+  "version": "1.0.0",
+  "main": "src/main.ts",
+  "scripts": {
+    "start": "bun src/main.ts"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}

@@ -1,0 +1,5 @@
+{"type":"insert","key":1,"value":"hii"}
+{"type":"insert","key":2,"value":"World"}
+INSERT 1 hello
+{"type":"INSERT","key":1,"value":"hello"}
+{"type":"DELETE","key":1}
